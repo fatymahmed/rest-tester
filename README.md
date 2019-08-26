@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Sending Params with RestClient
 
-Things you may want to cover:
+In this project, I got a chance to interact with a Rails application from the command line by sending requests manually. I first built a very simple app and then a simple script which uses the RestClient gem to send some requests and examine the server output.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ # Author
+ - Fatima Ahmed [http://github.com/fatymahmed]
